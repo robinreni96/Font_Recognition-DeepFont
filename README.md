@@ -32,3 +32,6 @@ The work is splited into 4 steps :
     As its prototyping , I used Keras to build the entire pipeline . Feel free to prototype in other frameworks.
 
                    Thanks to DeepFont Team for their amazing work
+ <a href="https://www.buymeacoffee.com/robinreni96" target="_blank"><img src="https://github.com/appcraftstudio/buymeacoffee/raw/master/Images/snapshot-bmc-button.png" width="300"></a>
+
+Copyright © 2021 Robin Reni. All rights reserved
